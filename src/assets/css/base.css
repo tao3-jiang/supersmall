@@ -1,0 +1,14 @@
+body,p,ul,li,span,img{
+  margin: 0;
+  padding: 0;
+}
+a{
+  color:black;
+  text-decoration:none;
+}
+a:hover{
+  color: blue;
+}
+ul li{
+  list-style: none;
+}
